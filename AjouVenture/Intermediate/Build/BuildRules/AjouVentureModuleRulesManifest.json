@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal Projects\\AjouVenture\\AjouVenture\\Source\\AjouVenture\\AjouVenture.Build.cs",
-		"D:\\Unreal Projects\\AjouVenture\\AjouVenture\\Source\\AjouVenture.Target.cs",
-		"D:\\Unreal Projects\\AjouVenture\\AjouVenture\\Source\\AjouVentureEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.0"
-}
