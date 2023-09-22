@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AjouVenture",
+			"Path": "..\\Source\\AjouVenture.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AjouVentureEditor",
+			"Path": "..\\Source\\AjouVentureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
